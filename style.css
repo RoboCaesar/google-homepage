@@ -33,16 +33,13 @@ body {
 }
 
 .logo {
-	/* text-align: center; */
 	padding-top: 200px;
-	display: block;
-	margin: 0 auto;
 }
 
 /* Check this out here. A way to center the logo: */
-#testthingy {
-	display: inherit;
-	margin: inherit;
+.logo img {
+	display: block;
+	margin: 0 auto;
 }
 
 .search input { 
